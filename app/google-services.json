@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41967349411",
+    "project_id": "chatapp-vj",
+    "storage_bucket": "chatapp-vj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41967349411:android:5c6333d024a68ef102d916",
+        "android_client_info": {
+          "package_name": "org.mycode.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41967349411-kehddprmfe803affsgnfji2a2rl2ckqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA37JODA6ggTfZdTEl8nH-Sm4vsmvdrFiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41967349411-kehddprmfe803affsgnfji2a2rl2ckqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
